@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0045-jump-game-ii](https://github.com/Thilak-29/LeetCodes/tree/master/0045-jump-game-ii) |
 | [0189-rotate-array](https://github.com/Thilak-29/LeetCodes/tree/master/0189-rotate-array) |
 | [0485-max-consecutive-ones](https://github.com/Thilak-29/LeetCodes/tree/master/0485-max-consecutive-ones) |
 | [1470-shuffle-the-array](https://github.com/Thilak-29/LeetCodes/tree/master/1470-shuffle-the-array) |
@@ -32,4 +33,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1480-running-sum-of-1d-array](https://github.com/Thilak-29/LeetCodes/tree/master/1480-running-sum-of-1d-array) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0045-jump-game-ii](https://github.com/Thilak-29/LeetCodes/tree/master/0045-jump-game-ii) |
+## Greedy
+|  |
+| ------- |
+| [0045-jump-game-ii](https://github.com/Thilak-29/LeetCodes/tree/master/0045-jump-game-ii) |
 <!---LeetCode Topics End-->
