@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/Thilak-29/LeetCodes/tree/master/0189-rotate-array) |
 | [0485-max-consecutive-ones](https://github.com/Thilak-29/LeetCodes/tree/master/0485-max-consecutive-ones) |
 | [1470-shuffle-the-array](https://github.com/Thilak-29/LeetCodes/tree/master/1470-shuffle-the-array) |
+| [1752-check-if-array-is-sorted-and-rotated](https://github.com/Thilak-29/LeetCodes/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [1929-concatenation-of-array](https://github.com/Thilak-29/LeetCodes/tree/master/1929-concatenation-of-array) |
 ## Simulation
 |  |
