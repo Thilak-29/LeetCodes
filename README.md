@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [1470-shuffle-the-array](https://github.com/Thilak-29/LeetCodes/tree/master/1470-shuffle-the-array) |
 | [1929-concatenation-of-array](https://github.com/Thilak-29/LeetCodes/tree/master/1929-concatenation-of-array) |
 ## Simulation
 |  |
