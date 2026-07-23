@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0189-rotate-array](https://github.com/Thilak-29/LeetCodes/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/Thilak-29/LeetCodes/tree/master/0202-happy-number) |
+| [0443-string-compression](https://github.com/Thilak-29/LeetCodes/tree/master/0443-string-compression) |
 ## Array
 |  |
 | ------- |
@@ -84,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0383-ransom-note](https://github.com/Thilak-29/LeetCodes/tree/master/0383-ransom-note) |
+| [0443-string-compression](https://github.com/Thilak-29/LeetCodes/tree/master/0443-string-compression) |
 | [1941-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/Thilak-29/LeetCodes/tree/master/1941-check-if-all-characters-have-equal-number-of-occurrences) |
 ## Linked List
 |  |
