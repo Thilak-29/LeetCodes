@@ -82,4 +82,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1941-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/Thilak-29/LeetCodes/tree/master/1941-check-if-all-characters-have-equal-number-of-occurrences) |
+## Linked List
+|  |
+| ------- |
+| [0083-remove-duplicates-from-sorted-list](https://github.com/Thilak-29/LeetCodes/tree/master/0083-remove-duplicates-from-sorted-list) |
 <!---LeetCode Topics End-->
