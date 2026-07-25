@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0202-happy-number](https://github.com/Thilak-29/LeetCodes/tree/master/0202-happy-number) |
 | [0383-ransom-note](https://github.com/Thilak-29/LeetCodes/tree/master/0383-ransom-note) |
+| [0438-find-all-anagrams-in-a-string](https://github.com/Thilak-29/LeetCodes/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Thilak-29/LeetCodes/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0535-encode-and-decode-tinyurl](https://github.com/Thilak-29/LeetCodes/tree/master/0535-encode-and-decode-tinyurl) |
 | [0645-set-mismatch](https://github.com/Thilak-29/LeetCodes/tree/master/0645-set-mismatch) |
@@ -105,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0383-ransom-note](https://github.com/Thilak-29/LeetCodes/tree/master/0383-ransom-note) |
+| [0438-find-all-anagrams-in-a-string](https://github.com/Thilak-29/LeetCodes/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0443-string-compression](https://github.com/Thilak-29/LeetCodes/tree/master/0443-string-compression) |
 | [0535-encode-and-decode-tinyurl](https://github.com/Thilak-29/LeetCodes/tree/master/0535-encode-and-decode-tinyurl) |
 | [0771-jewels-and-stones](https://github.com/Thilak-29/LeetCodes/tree/master/0771-jewels-and-stones) |
@@ -139,5 +141,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sliding Window
 |  |
 | ------- |
+| [0438-find-all-anagrams-in-a-string](https://github.com/Thilak-29/LeetCodes/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0643-maximum-average-subarray-i](https://github.com/Thilak-29/LeetCodes/tree/master/0643-maximum-average-subarray-i) |
 <!---LeetCode Topics End-->
