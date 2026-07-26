@@ -1,0 +1,24 @@
+class Solution {
+    public List<Boolean> kidsWithCandies(int[] candies, int extraCandies) {
+
+        List<Boolean> ans = new ArrayList<>();
+
+        int max = 0;
+
+        // Find maximum candies
+        for (int candy : candies) {
+            max = Math.max(max, candy);
+        }
+
+        // Check each child
+        for (int candy : candies) {
+            if (candy + extraCandies >= max) {
+                ans.add(true);
+            } else {
+                ans.add(false);
+            }
+        }
+
+        return ans;
+    }
+}
