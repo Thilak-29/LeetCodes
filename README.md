@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0080-remove-duplicates-from-sorted-array-ii](https://github.com/Thilak-29/LeetCodes/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0189-rotate-array](https://github.com/Thilak-29/LeetCodes/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/Thilak-29/LeetCodes/tree/master/0202-happy-number) |
 | [0443-string-compression](https://github.com/Thilak-29/LeetCodes/tree/master/0443-string-compression) |
@@ -35,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0045-jump-game-ii](https://github.com/Thilak-29/LeetCodes/tree/master/0045-jump-game-ii) |
+| [0080-remove-duplicates-from-sorted-array-ii](https://github.com/Thilak-29/LeetCodes/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0189-rotate-array](https://github.com/Thilak-29/LeetCodes/tree/master/0189-rotate-array) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Thilak-29/LeetCodes/tree/master/0215-kth-largest-element-in-an-array) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Thilak-29/LeetCodes/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
