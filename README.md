@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0443-string-compression](https://github.com/Thilak-29/LeetCodes/tree/master/0443-string-compression) |
 | [0905-sort-array-by-parity](https://github.com/Thilak-29/LeetCodes/tree/master/0905-sort-array-by-parity) |
 | [1089-duplicate-zeros](https://github.com/Thilak-29/LeetCodes/tree/master/1089-duplicate-zeros) |
+| [1768-merge-strings-alternately](https://github.com/Thilak-29/LeetCodes/tree/master/1768-merge-strings-alternately) |
 ## Array
 |  |
 | ------- |
@@ -120,6 +121,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0804-unique-morse-code-words](https://github.com/Thilak-29/LeetCodes/tree/master/0804-unique-morse-code-words) |
 | [0890-find-and-replace-pattern](https://github.com/Thilak-29/LeetCodes/tree/master/0890-find-and-replace-pattern) |
 | [1160-find-words-that-can-be-formed-by-characters](https://github.com/Thilak-29/LeetCodes/tree/master/1160-find-words-that-can-be-formed-by-characters) |
+| [1768-merge-strings-alternately](https://github.com/Thilak-29/LeetCodes/tree/master/1768-merge-strings-alternately) |
 | [1941-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/Thilak-29/LeetCodes/tree/master/1941-check-if-all-characters-have-equal-number-of-occurrences) |
 ## Linked List
 |  |
