@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0771-jewels-and-stones](https://github.com/Thilak-29/LeetCodes/tree/master/0771-jewels-and-stones) |
 | [0804-unique-morse-code-words](https://github.com/Thilak-29/LeetCodes/tree/master/0804-unique-morse-code-words) |
 | [0890-find-and-replace-pattern](https://github.com/Thilak-29/LeetCodes/tree/master/0890-find-and-replace-pattern) |
+| [0904-fruit-into-baskets](https://github.com/Thilak-29/LeetCodes/tree/master/0904-fruit-into-baskets) |
 | [1160-find-words-that-can-be-formed-by-characters](https://github.com/Thilak-29/LeetCodes/tree/master/1160-find-words-that-can-be-formed-by-characters) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Thilak-29/LeetCodes/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1941-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/Thilak-29/LeetCodes/tree/master/1941-check-if-all-characters-have-equal-number-of-occurrences) |
@@ -52,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0645-set-mismatch](https://github.com/Thilak-29/LeetCodes/tree/master/0645-set-mismatch) |
 | [0804-unique-morse-code-words](https://github.com/Thilak-29/LeetCodes/tree/master/0804-unique-morse-code-words) |
 | [0890-find-and-replace-pattern](https://github.com/Thilak-29/LeetCodes/tree/master/0890-find-and-replace-pattern) |
+| [0904-fruit-into-baskets](https://github.com/Thilak-29/LeetCodes/tree/master/0904-fruit-into-baskets) |
 | [0905-sort-array-by-parity](https://github.com/Thilak-29/LeetCodes/tree/master/0905-sort-array-by-parity) |
 | [1089-duplicate-zeros](https://github.com/Thilak-29/LeetCodes/tree/master/1089-duplicate-zeros) |
 | [1160-find-words-that-can-be-formed-by-characters](https://github.com/Thilak-29/LeetCodes/tree/master/1160-find-words-that-can-be-formed-by-characters) |
@@ -171,6 +173,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0209-minimum-size-subarray-sum](https://github.com/Thilak-29/LeetCodes/tree/master/0209-minimum-size-subarray-sum) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/Thilak-29/LeetCodes/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0643-maximum-average-subarray-i](https://github.com/Thilak-29/LeetCodes/tree/master/0643-maximum-average-subarray-i) |
+| [0904-fruit-into-baskets](https://github.com/Thilak-29/LeetCodes/tree/master/0904-fruit-into-baskets) |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/Thilak-29/LeetCodes/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/Thilak-29/LeetCodes/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 ## Binary Search
