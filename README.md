@@ -101,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/Thilak-29/LeetCodes/tree/master/0094-binary-tree-inorder-traversal) |
 | [0682-baseball-game](https://github.com/Thilak-29/LeetCodes/tree/master/0682-baseball-game) |
+| [1047-remove-all-adjacent-duplicates-in-string](https://github.com/Thilak-29/LeetCodes/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1441-build-an-array-with-stack-operations](https://github.com/Thilak-29/LeetCodes/tree/master/1441-build-an-array-with-stack-operations) |
 ## Tree
 |  |
@@ -149,6 +150,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0771-jewels-and-stones](https://github.com/Thilak-29/LeetCodes/tree/master/0771-jewels-and-stones) |
 | [0804-unique-morse-code-words](https://github.com/Thilak-29/LeetCodes/tree/master/0804-unique-morse-code-words) |
 | [0890-find-and-replace-pattern](https://github.com/Thilak-29/LeetCodes/tree/master/0890-find-and-replace-pattern) |
+| [1047-remove-all-adjacent-duplicates-in-string](https://github.com/Thilak-29/LeetCodes/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1160-find-words-that-can-be-formed-by-characters](https://github.com/Thilak-29/LeetCodes/tree/master/1160-find-words-that-can-be-formed-by-characters) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/Thilak-29/LeetCodes/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1768-merge-strings-alternately](https://github.com/Thilak-29/LeetCodes/tree/master/1768-merge-strings-alternately) |
