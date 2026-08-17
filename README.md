@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0189-rotate-array](https://github.com/Thilak-29/LeetCodes/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/Thilak-29/LeetCodes/tree/master/0202-happy-number) |
+| [0342-power-of-four](https://github.com/Thilak-29/LeetCodes/tree/master/0342-power-of-four) |
 | [0509-fibonacci-number](https://github.com/Thilak-29/LeetCodes/tree/master/0509-fibonacci-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Thilak-29/LeetCodes/tree/master/0628-maximum-product-of-three-numbers) |
 | [3536-maximum-product-of-two-digits](https://github.com/Thilak-29/LeetCodes/tree/master/3536-maximum-product-of-two-digits) |
@@ -125,6 +126,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0342-power-of-four](https://github.com/Thilak-29/LeetCodes/tree/master/0342-power-of-four) |
 | [0645-set-mismatch](https://github.com/Thilak-29/LeetCodes/tree/master/0645-set-mismatch) |
 ## Sorting
 |  |
@@ -218,6 +220,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Recursion
 |  |
 | ------- |
+| [0342-power-of-four](https://github.com/Thilak-29/LeetCodes/tree/master/0342-power-of-four) |
 | [0509-fibonacci-number](https://github.com/Thilak-29/LeetCodes/tree/master/0509-fibonacci-number) |
 ## Memoization
 |  |
