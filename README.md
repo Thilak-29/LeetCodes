@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0189-rotate-array](https://github.com/Thilak-29/LeetCodes/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/Thilak-29/LeetCodes/tree/master/0202-happy-number) |
+| [0509-fibonacci-number](https://github.com/Thilak-29/LeetCodes/tree/master/0509-fibonacci-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Thilak-29/LeetCodes/tree/master/0628-maximum-product-of-three-numbers) |
 | [3536-maximum-product-of-two-digits](https://github.com/Thilak-29/LeetCodes/tree/master/3536-maximum-product-of-two-digits) |
 ## Two Pointers
@@ -95,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0045-jump-game-ii](https://github.com/Thilak-29/LeetCodes/tree/master/0045-jump-game-ii) |
+| [0509-fibonacci-number](https://github.com/Thilak-29/LeetCodes/tree/master/0509-fibonacci-number) |
 ## Greedy
 |  |
 | ------- |
@@ -213,4 +215,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0496-next-greater-element-i](https://github.com/Thilak-29/LeetCodes/tree/master/0496-next-greater-element-i) |
 | [0739-daily-temperatures](https://github.com/Thilak-29/LeetCodes/tree/master/0739-daily-temperatures) |
+## Recursion
+|  |
+| ------- |
+| [0509-fibonacci-number](https://github.com/Thilak-29/LeetCodes/tree/master/0509-fibonacci-number) |
+## Memoization
+|  |
+| ------- |
+| [0509-fibonacci-number](https://github.com/Thilak-29/LeetCodes/tree/master/0509-fibonacci-number) |
 <!---LeetCode Topics End-->
