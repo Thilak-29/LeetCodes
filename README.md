@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0019-remove-nth-node-from-end-of-list](https://github.com/Thilak-29/LeetCodes/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/Thilak-29/LeetCodes/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0141-linked-list-cycle](https://github.com/Thilak-29/LeetCodes/tree/master/0141-linked-list-cycle) |
+| [0143-reorder-list](https://github.com/Thilak-29/LeetCodes/tree/master/0143-reorder-list) |
 | [0189-rotate-array](https://github.com/Thilak-29/LeetCodes/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/Thilak-29/LeetCodes/tree/master/0202-happy-number) |
 | [0443-string-compression](https://github.com/Thilak-29/LeetCodes/tree/master/0443-string-compression) |
@@ -106,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/Thilak-29/LeetCodes/tree/master/0094-binary-tree-inorder-traversal) |
+| [0143-reorder-list](https://github.com/Thilak-29/LeetCodes/tree/master/0143-reorder-list) |
 | [0496-next-greater-element-i](https://github.com/Thilak-29/LeetCodes/tree/master/0496-next-greater-element-i) |
 | [0682-baseball-game](https://github.com/Thilak-29/LeetCodes/tree/master/0682-baseball-game) |
 | [0739-daily-temperatures](https://github.com/Thilak-29/LeetCodes/tree/master/0739-daily-temperatures) |
@@ -171,6 +173,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0019-remove-nth-node-from-end-of-list](https://github.com/Thilak-29/LeetCodes/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/Thilak-29/LeetCodes/tree/master/0083-remove-duplicates-from-sorted-list) |
 | [0141-linked-list-cycle](https://github.com/Thilak-29/LeetCodes/tree/master/0141-linked-list-cycle) |
+| [0143-reorder-list](https://github.com/Thilak-29/LeetCodes/tree/master/0143-reorder-list) |
 ## Design
 |  |
 | ------- |
@@ -220,6 +223,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Recursion
 |  |
 | ------- |
+| [0143-reorder-list](https://github.com/Thilak-29/LeetCodes/tree/master/0143-reorder-list) |
 | [0342-power-of-four](https://github.com/Thilak-29/LeetCodes/tree/master/0342-power-of-four) |
 | [0509-fibonacci-number](https://github.com/Thilak-29/LeetCodes/tree/master/0509-fibonacci-number) |
 ## Memoization
