@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/Thilak-29/LeetCodes/tree/master/0009-palindrome-number) |
+| [0050-powx-n](https://github.com/Thilak-29/LeetCodes/tree/master/0050-powx-n) |
 | [0189-rotate-array](https://github.com/Thilak-29/LeetCodes/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/Thilak-29/LeetCodes/tree/master/0202-happy-number) |
 | [0342-power-of-four](https://github.com/Thilak-29/LeetCodes/tree/master/0342-power-of-four) |
@@ -242,6 +243,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/Thilak-29/LeetCodes/tree/master/0021-merge-two-sorted-lists) |
+| [0050-powx-n](https://github.com/Thilak-29/LeetCodes/tree/master/0050-powx-n) |
 | [0143-reorder-list](https://github.com/Thilak-29/LeetCodes/tree/master/0143-reorder-list) |
 | [0342-power-of-four](https://github.com/Thilak-29/LeetCodes/tree/master/0342-power-of-four) |
 | [0509-fibonacci-number](https://github.com/Thilak-29/LeetCodes/tree/master/0509-fibonacci-number) |
