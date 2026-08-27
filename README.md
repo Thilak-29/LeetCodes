@@ -136,6 +136,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/Thilak-29/LeetCodes/tree/master/0094-binary-tree-inorder-traversal) |
 | [0143-reorder-list](https://github.com/Thilak-29/LeetCodes/tree/master/0143-reorder-list) |
+| [0144-binary-tree-preorder-traversal](https://github.com/Thilak-29/LeetCodes/tree/master/0144-binary-tree-preorder-traversal) |
 | [0496-next-greater-element-i](https://github.com/Thilak-29/LeetCodes/tree/master/0496-next-greater-element-i) |
 | [0682-baseball-game](https://github.com/Thilak-29/LeetCodes/tree/master/0682-baseball-game) |
 | [0735-asteroid-collision](https://github.com/Thilak-29/LeetCodes/tree/master/0735-asteroid-collision) |
@@ -149,6 +150,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0094-binary-tree-inorder-traversal](https://github.com/Thilak-29/LeetCodes/tree/master/0094-binary-tree-inorder-traversal) |
 | [0112-path-sum](https://github.com/Thilak-29/LeetCodes/tree/master/0112-path-sum) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/Thilak-29/LeetCodes/tree/master/0124-binary-tree-maximum-path-sum) |
+| [0144-binary-tree-preorder-traversal](https://github.com/Thilak-29/LeetCodes/tree/master/0144-binary-tree-preorder-traversal) |
 | [0543-diameter-of-binary-tree](https://github.com/Thilak-29/LeetCodes/tree/master/0543-diameter-of-binary-tree) |
 ## Depth-First Search
 |  |
@@ -156,6 +158,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0094-binary-tree-inorder-traversal](https://github.com/Thilak-29/LeetCodes/tree/master/0094-binary-tree-inorder-traversal) |
 | [0112-path-sum](https://github.com/Thilak-29/LeetCodes/tree/master/0112-path-sum) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/Thilak-29/LeetCodes/tree/master/0124-binary-tree-maximum-path-sum) |
+| [0144-binary-tree-preorder-traversal](https://github.com/Thilak-29/LeetCodes/tree/master/0144-binary-tree-preorder-traversal) |
 | [0543-diameter-of-binary-tree](https://github.com/Thilak-29/LeetCodes/tree/master/0543-diameter-of-binary-tree) |
 ## Binary Tree
 |  |
@@ -163,6 +166,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0094-binary-tree-inorder-traversal](https://github.com/Thilak-29/LeetCodes/tree/master/0094-binary-tree-inorder-traversal) |
 | [0112-path-sum](https://github.com/Thilak-29/LeetCodes/tree/master/0112-path-sum) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/Thilak-29/LeetCodes/tree/master/0124-binary-tree-maximum-path-sum) |
+| [0144-binary-tree-preorder-traversal](https://github.com/Thilak-29/LeetCodes/tree/master/0144-binary-tree-preorder-traversal) |
 | [0543-diameter-of-binary-tree](https://github.com/Thilak-29/LeetCodes/tree/master/0543-diameter-of-binary-tree) |
 ## Bit Manipulation
 |  |
