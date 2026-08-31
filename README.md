@@ -84,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0643-maximum-average-subarray-i](https://github.com/Thilak-29/LeetCodes/tree/master/0643-maximum-average-subarray-i) |
 | [0645-set-mismatch](https://github.com/Thilak-29/LeetCodes/tree/master/0645-set-mismatch) |
 | [0682-baseball-game](https://github.com/Thilak-29/LeetCodes/tree/master/0682-baseball-game) |
+| [0695-max-area-of-island](https://github.com/Thilak-29/LeetCodes/tree/master/0695-max-area-of-island) |
 | [0735-asteroid-collision](https://github.com/Thilak-29/LeetCodes/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/Thilak-29/LeetCodes/tree/master/0739-daily-temperatures) |
 | [0804-unique-morse-code-words](https://github.com/Thilak-29/LeetCodes/tree/master/0804-unique-morse-code-words) |
@@ -172,6 +173,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0543-diameter-of-binary-tree](https://github.com/Thilak-29/LeetCodes/tree/master/0543-diameter-of-binary-tree) |
 | [0547-number-of-provinces](https://github.com/Thilak-29/LeetCodes/tree/master/0547-number-of-provinces) |
 | [0671-second-minimum-node-in-a-binary-tree](https://github.com/Thilak-29/LeetCodes/tree/master/0671-second-minimum-node-in-a-binary-tree) |
+| [0695-max-area-of-island](https://github.com/Thilak-29/LeetCodes/tree/master/0695-max-area-of-island) |
 | [0938-range-sum-of-bst](https://github.com/Thilak-29/LeetCodes/tree/master/0938-range-sum-of-bst) |
 | [1971-find-if-path-exists-in-graph](https://github.com/Thilak-29/LeetCodes/tree/master/1971-find-if-path-exists-in-graph) |
 ## Binary Tree
@@ -322,6 +324,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0112-path-sum](https://github.com/Thilak-29/LeetCodes/tree/master/0112-path-sum) |
 | [0547-number-of-provinces](https://github.com/Thilak-29/LeetCodes/tree/master/0547-number-of-provinces) |
+| [0695-max-area-of-island](https://github.com/Thilak-29/LeetCodes/tree/master/0695-max-area-of-island) |
 | [1971-find-if-path-exists-in-graph](https://github.com/Thilak-29/LeetCodes/tree/master/1971-find-if-path-exists-in-graph) |
 ## Binary Search Tree
 |  |
@@ -334,10 +337,15 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0547-number-of-provinces](https://github.com/Thilak-29/LeetCodes/tree/master/0547-number-of-provinces) |
+| [0695-max-area-of-island](https://github.com/Thilak-29/LeetCodes/tree/master/0695-max-area-of-island) |
 | [1971-find-if-path-exists-in-graph](https://github.com/Thilak-29/LeetCodes/tree/master/1971-find-if-path-exists-in-graph) |
 ## Graph Theory
 |  |
 | ------- |
 | [0547-number-of-provinces](https://github.com/Thilak-29/LeetCodes/tree/master/0547-number-of-provinces) |
 | [1971-find-if-path-exists-in-graph](https://github.com/Thilak-29/LeetCodes/tree/master/1971-find-if-path-exists-in-graph) |
+## Matrix
+|  |
+| ------- |
+| [0695-max-area-of-island](https://github.com/Thilak-29/LeetCodes/tree/master/0695-max-area-of-island) |
 <!---LeetCode Topics End-->
