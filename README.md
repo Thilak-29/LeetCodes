@@ -92,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0904-fruit-into-baskets](https://github.com/Thilak-29/LeetCodes/tree/master/0904-fruit-into-baskets) |
 | [0905-sort-array-by-parity](https://github.com/Thilak-29/LeetCodes/tree/master/0905-sort-array-by-parity) |
 | [0977-squares-of-a-sorted-array](https://github.com/Thilak-29/LeetCodes/tree/master/0977-squares-of-a-sorted-array) |
+| [0994-rotting-oranges](https://github.com/Thilak-29/LeetCodes/tree/master/0994-rotting-oranges) |
 | [1004-max-consecutive-ones-iii](https://github.com/Thilak-29/LeetCodes/tree/master/1004-max-consecutive-ones-iii) |
 | [1089-duplicate-zeros](https://github.com/Thilak-29/LeetCodes/tree/master/1089-duplicate-zeros) |
 | [1160-find-words-that-can-be-formed-by-characters](https://github.com/Thilak-29/LeetCodes/tree/master/1160-find-words-that-can-be-formed-by-characters) |
@@ -333,6 +334,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0112-path-sum](https://github.com/Thilak-29/LeetCodes/tree/master/0112-path-sum) |
 | [0547-number-of-provinces](https://github.com/Thilak-29/LeetCodes/tree/master/0547-number-of-provinces) |
 | [0695-max-area-of-island](https://github.com/Thilak-29/LeetCodes/tree/master/0695-max-area-of-island) |
+| [0994-rotting-oranges](https://github.com/Thilak-29/LeetCodes/tree/master/0994-rotting-oranges) |
 | [1971-find-if-path-exists-in-graph](https://github.com/Thilak-29/LeetCodes/tree/master/1971-find-if-path-exists-in-graph) |
 ## Binary Search Tree
 |  |
@@ -356,4 +358,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0695-max-area-of-island](https://github.com/Thilak-29/LeetCodes/tree/master/0695-max-area-of-island) |
+| [0994-rotting-oranges](https://github.com/Thilak-29/LeetCodes/tree/master/0994-rotting-oranges) |
 <!---LeetCode Topics End-->
