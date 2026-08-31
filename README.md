@@ -151,6 +151,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/Thilak-29/LeetCodes/tree/master/0094-binary-tree-inorder-traversal) |
+| [0100-same-tree](https://github.com/Thilak-29/LeetCodes/tree/master/0100-same-tree) |
 | [0112-path-sum](https://github.com/Thilak-29/LeetCodes/tree/master/0112-path-sum) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/Thilak-29/LeetCodes/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Thilak-29/LeetCodes/tree/master/0144-binary-tree-preorder-traversal) |
@@ -165,6 +166,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/Thilak-29/LeetCodes/tree/master/0094-binary-tree-inorder-traversal) |
+| [0100-same-tree](https://github.com/Thilak-29/LeetCodes/tree/master/0100-same-tree) |
 | [0112-path-sum](https://github.com/Thilak-29/LeetCodes/tree/master/0112-path-sum) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/Thilak-29/LeetCodes/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Thilak-29/LeetCodes/tree/master/0144-binary-tree-preorder-traversal) |
@@ -180,6 +182,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/Thilak-29/LeetCodes/tree/master/0094-binary-tree-inorder-traversal) |
+| [0100-same-tree](https://github.com/Thilak-29/LeetCodes/tree/master/0100-same-tree) |
 | [0112-path-sum](https://github.com/Thilak-29/LeetCodes/tree/master/0112-path-sum) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/Thilak-29/LeetCodes/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Thilak-29/LeetCodes/tree/master/0144-binary-tree-preorder-traversal) |
@@ -322,6 +325,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Breadth-First Search
 |  |
 | ------- |
+| [0100-same-tree](https://github.com/Thilak-29/LeetCodes/tree/master/0100-same-tree) |
 | [0112-path-sum](https://github.com/Thilak-29/LeetCodes/tree/master/0112-path-sum) |
 | [0547-number-of-provinces](https://github.com/Thilak-29/LeetCodes/tree/master/0547-number-of-provinces) |
 | [0695-max-area-of-island](https://github.com/Thilak-29/LeetCodes/tree/master/0695-max-area-of-island) |
