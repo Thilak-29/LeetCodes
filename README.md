@@ -140,6 +140,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/Thilak-29/LeetCodes/tree/master/0020-valid-parentheses) |
 | [0094-binary-tree-inorder-traversal](https://github.com/Thilak-29/LeetCodes/tree/master/0094-binary-tree-inorder-traversal) |
 | [0143-reorder-list](https://github.com/Thilak-29/LeetCodes/tree/master/0143-reorder-list) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Thilak-29/LeetCodes/tree/master/0144-binary-tree-preorder-traversal) |
@@ -236,6 +237,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Thilak-29/LeetCodes/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0020-valid-parentheses](https://github.com/Thilak-29/LeetCodes/tree/master/0020-valid-parentheses) |
 | [0125-valid-palindrome](https://github.com/Thilak-29/LeetCodes/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/Thilak-29/LeetCodes/tree/master/0242-valid-anagram) |
 | [0383-ransom-note](https://github.com/Thilak-29/LeetCodes/tree/master/0383-ransom-note) |
@@ -369,4 +371,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/Thilak-29/LeetCodes/tree/master/0200-number-of-islands) |
 | [0695-max-area-of-island](https://github.com/Thilak-29/LeetCodes/tree/master/0695-max-area-of-island) |
 | [0994-rotting-oranges](https://github.com/Thilak-29/LeetCodes/tree/master/0994-rotting-oranges) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/Thilak-29/LeetCodes/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->
