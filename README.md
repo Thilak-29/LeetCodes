@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0804-unique-morse-code-words](https://github.com/Thilak-29/LeetCodes/tree/master/0804-unique-morse-code-words) |
 | [0890-find-and-replace-pattern](https://github.com/Thilak-29/LeetCodes/tree/master/0890-find-and-replace-pattern) |
 | [0904-fruit-into-baskets](https://github.com/Thilak-29/LeetCodes/tree/master/0904-fruit-into-baskets) |
+| [0914-x-of-a-kind-in-a-deck-of-cards](https://github.com/Thilak-29/LeetCodes/tree/master/0914-x-of-a-kind-in-a-deck-of-cards) |
 | [1160-find-words-that-can-be-formed-by-characters](https://github.com/Thilak-29/LeetCodes/tree/master/1160-find-words-that-can-be-formed-by-characters) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Thilak-29/LeetCodes/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1941-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/Thilak-29/LeetCodes/tree/master/1941-check-if-all-characters-have-equal-number-of-occurrences) |
@@ -35,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0342-power-of-four](https://github.com/Thilak-29/LeetCodes/tree/master/0342-power-of-four) |
 | [0509-fibonacci-number](https://github.com/Thilak-29/LeetCodes/tree/master/0509-fibonacci-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Thilak-29/LeetCodes/tree/master/0628-maximum-product-of-three-numbers) |
+| [0914-x-of-a-kind-in-a-deck-of-cards](https://github.com/Thilak-29/LeetCodes/tree/master/0914-x-of-a-kind-in-a-deck-of-cards) |
 | [3536-maximum-product-of-two-digits](https://github.com/Thilak-29/LeetCodes/tree/master/3536-maximum-product-of-two-digits) |
 ## Two Pointers
 |  |
@@ -95,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0890-find-and-replace-pattern](https://github.com/Thilak-29/LeetCodes/tree/master/0890-find-and-replace-pattern) |
 | [0904-fruit-into-baskets](https://github.com/Thilak-29/LeetCodes/tree/master/0904-fruit-into-baskets) |
 | [0905-sort-array-by-parity](https://github.com/Thilak-29/LeetCodes/tree/master/0905-sort-array-by-parity) |
+| [0914-x-of-a-kind-in-a-deck-of-cards](https://github.com/Thilak-29/LeetCodes/tree/master/0914-x-of-a-kind-in-a-deck-of-cards) |
 | [0977-squares-of-a-sorted-array](https://github.com/Thilak-29/LeetCodes/tree/master/0977-squares-of-a-sorted-array) |
 | [0994-rotting-oranges](https://github.com/Thilak-29/LeetCodes/tree/master/0994-rotting-oranges) |
 | [1004-max-consecutive-ones-iii](https://github.com/Thilak-29/LeetCodes/tree/master/1004-max-consecutive-ones-iii) |
@@ -229,6 +232,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0383-ransom-note](https://github.com/Thilak-29/LeetCodes/tree/master/0383-ransom-note) |
+| [0914-x-of-a-kind-in-a-deck-of-cards](https://github.com/Thilak-29/LeetCodes/tree/master/0914-x-of-a-kind-in-a-deck-of-cards) |
 | [1160-find-words-that-can-be-formed-by-characters](https://github.com/Thilak-29/LeetCodes/tree/master/1160-find-words-that-can-be-formed-by-characters) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Thilak-29/LeetCodes/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1941-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/Thilak-29/LeetCodes/tree/master/1941-check-if-all-characters-have-equal-number-of-occurrences) |
@@ -375,4 +379,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Thilak-29/LeetCodes/tree/master/0020-valid-parentheses) |
+## Number Theory
+|  |
+| ------- |
+| [0914-x-of-a-kind-in-a-deck-of-cards](https://github.com/Thilak-29/LeetCodes/tree/master/0914-x-of-a-kind-in-a-deck-of-cards) |
+## Euclidean Algorithm
+|  |
+| ------- |
+| [0914-x-of-a-kind-in-a-deck-of-cards](https://github.com/Thilak-29/LeetCodes/tree/master/0914-x-of-a-kind-in-a-deck-of-cards) |
+## Greatest Common Divisor
+|  |
+| ------- |
+| [0914-x-of-a-kind-in-a-deck-of-cards](https://github.com/Thilak-29/LeetCodes/tree/master/0914-x-of-a-kind-in-a-deck-of-cards) |
 <!---LeetCode Topics End-->
