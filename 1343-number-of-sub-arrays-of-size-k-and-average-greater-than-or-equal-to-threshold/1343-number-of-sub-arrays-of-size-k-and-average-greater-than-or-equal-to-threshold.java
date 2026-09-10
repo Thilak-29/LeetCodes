@@ -1,21 +1,20 @@
 class Solution {
     public int numOfSubarrays(int[] arr, int k, int threshold) {
-        int sum = 0;
+        double windsum = 0;
         int count = 0;
         for(int i=0;i<k;i++){
-            sum+=arr[i];
-            if(sum>=threshold*k){
-            }
+            windsum = windsum+arr[i];
+            
         }
-        if (sum >= threshold * k) {
-            count++;
-        }
-        for(int i=k;i<arr.length;i++){
-            sum+=arr[i];
-            sum-=arr[i-k];
-            if(sum>=threshold*k){
+        if(windsum/k>=threshold){
                 count++;
             }
+        for(int i=k;i<arr.length;i++){
+            windsum = windsum-arr[i-k]+arr[i];
+            if(windsum/k>=threshold){
+                count++;
+            }
+
         }
         return count;
     }
