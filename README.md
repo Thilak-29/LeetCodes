@@ -93,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0496-next-greater-element-i](https://github.com/Thilak-29/LeetCodes/tree/master/0496-next-greater-element-i) |
 | [0575-distribute-candies](https://github.com/Thilak-29/LeetCodes/tree/master/0575-distribute-candies) |
 | [0598-range-addition-ii](https://github.com/Thilak-29/LeetCodes/tree/master/0598-range-addition-ii) |
+| [0605-can-place-flowers](https://github.com/Thilak-29/LeetCodes/tree/master/0605-can-place-flowers) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Thilak-29/LeetCodes/tree/master/0628-maximum-product-of-three-numbers) |
 | [0643-maximum-average-subarray-i](https://github.com/Thilak-29/LeetCodes/tree/master/0643-maximum-average-subarray-i) |
 | [0645-set-mismatch](https://github.com/Thilak-29/LeetCodes/tree/master/0645-set-mismatch) |
@@ -154,6 +155,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0011-container-with-most-water](https://github.com/Thilak-29/LeetCodes/tree/master/0011-container-with-most-water) |
 | [0045-jump-game-ii](https://github.com/Thilak-29/LeetCodes/tree/master/0045-jump-game-ii) |
+| [0605-can-place-flowers](https://github.com/Thilak-29/LeetCodes/tree/master/0605-can-place-flowers) |
 ## Stack
 |  |
 | ------- |
