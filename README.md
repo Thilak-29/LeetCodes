@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/Thilak-29/LeetCodes/tree/master/0242-valid-anagram) |
 | [0349-intersection-of-two-arrays](https://github.com/Thilak-29/LeetCodes/tree/master/0349-intersection-of-two-arrays) |
 | [0383-ransom-note](https://github.com/Thilak-29/LeetCodes/tree/master/0383-ransom-note) |
+| [0389-find-the-difference](https://github.com/Thilak-29/LeetCodes/tree/master/0389-find-the-difference) |
 | [0424-longest-repeating-character-replacement](https://github.com/Thilak-29/LeetCodes/tree/master/0424-longest-repeating-character-replacement) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/Thilak-29/LeetCodes/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Thilak-29/LeetCodes/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
@@ -228,6 +229,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0342-power-of-four](https://github.com/Thilak-29/LeetCodes/tree/master/0342-power-of-four) |
+| [0389-find-the-difference](https://github.com/Thilak-29/LeetCodes/tree/master/0389-find-the-difference) |
 | [0645-set-mismatch](https://github.com/Thilak-29/LeetCodes/tree/master/0645-set-mismatch) |
 ## Sorting
 |  |
@@ -238,6 +240,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/Thilak-29/LeetCodes/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/Thilak-29/LeetCodes/tree/master/0242-valid-anagram) |
 | [0349-intersection-of-two-arrays](https://github.com/Thilak-29/LeetCodes/tree/master/0349-intersection-of-two-arrays) |
+| [0389-find-the-difference](https://github.com/Thilak-29/LeetCodes/tree/master/0389-find-the-difference) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Thilak-29/LeetCodes/tree/master/0628-maximum-product-of-three-numbers) |
 | [0645-set-mismatch](https://github.com/Thilak-29/LeetCodes/tree/master/0645-set-mismatch) |
 | [0905-sort-array-by-parity](https://github.com/Thilak-29/LeetCodes/tree/master/0905-sort-array-by-parity) |
@@ -266,6 +269,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0205-isomorphic-strings](https://github.com/Thilak-29/LeetCodes/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/Thilak-29/LeetCodes/tree/master/0242-valid-anagram) |
 | [0383-ransom-note](https://github.com/Thilak-29/LeetCodes/tree/master/0383-ransom-note) |
+| [0389-find-the-difference](https://github.com/Thilak-29/LeetCodes/tree/master/0389-find-the-difference) |
 | [0424-longest-repeating-character-replacement](https://github.com/Thilak-29/LeetCodes/tree/master/0424-longest-repeating-character-replacement) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/Thilak-29/LeetCodes/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0443-string-compression](https://github.com/Thilak-29/LeetCodes/tree/master/0443-string-compression) |
