@@ -96,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0485-max-consecutive-ones](https://github.com/Thilak-29/LeetCodes/tree/master/0485-max-consecutive-ones) |
 | [0496-next-greater-element-i](https://github.com/Thilak-29/LeetCodes/tree/master/0496-next-greater-element-i) |
 | [0500-keyboard-row](https://github.com/Thilak-29/LeetCodes/tree/master/0500-keyboard-row) |
+| [0506-relative-ranks](https://github.com/Thilak-29/LeetCodes/tree/master/0506-relative-ranks) |
 | [0575-distribute-candies](https://github.com/Thilak-29/LeetCodes/tree/master/0575-distribute-candies) |
 | [0594-longest-harmonious-subsequence](https://github.com/Thilak-29/LeetCodes/tree/master/0594-longest-harmonious-subsequence) |
 | [0598-range-addition-ii](https://github.com/Thilak-29/LeetCodes/tree/master/0598-range-addition-ii) |
@@ -245,6 +246,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/Thilak-29/LeetCodes/tree/master/0242-valid-anagram) |
 | [0349-intersection-of-two-arrays](https://github.com/Thilak-29/LeetCodes/tree/master/0349-intersection-of-two-arrays) |
 | [0389-find-the-difference](https://github.com/Thilak-29/LeetCodes/tree/master/0389-find-the-difference) |
+| [0506-relative-ranks](https://github.com/Thilak-29/LeetCodes/tree/master/0506-relative-ranks) |
 | [0594-longest-harmonious-subsequence](https://github.com/Thilak-29/LeetCodes/tree/master/0594-longest-harmonious-subsequence) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Thilak-29/LeetCodes/tree/master/0628-maximum-product-of-three-numbers) |
 | [0645-set-mismatch](https://github.com/Thilak-29/LeetCodes/tree/master/0645-set-mismatch) |
@@ -321,6 +323,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/Thilak-29/LeetCodes/tree/master/0215-kth-largest-element-in-an-array) |
+| [0506-relative-ranks](https://github.com/Thilak-29/LeetCodes/tree/master/0506-relative-ranks) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Thilak-29/LeetCodes/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 ## Quickselect
 |  |
