@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0438-find-all-anagrams-in-a-string](https://github.com/Thilak-29/LeetCodes/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Thilak-29/LeetCodes/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0496-next-greater-element-i](https://github.com/Thilak-29/LeetCodes/tree/master/0496-next-greater-element-i) |
+| [0500-keyboard-row](https://github.com/Thilak-29/LeetCodes/tree/master/0500-keyboard-row) |
 | [0535-encode-and-decode-tinyurl](https://github.com/Thilak-29/LeetCodes/tree/master/0535-encode-and-decode-tinyurl) |
 | [0567-permutation-in-string](https://github.com/Thilak-29/LeetCodes/tree/master/0567-permutation-in-string) |
 | [0575-distribute-candies](https://github.com/Thilak-29/LeetCodes/tree/master/0575-distribute-candies) |
@@ -94,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Thilak-29/LeetCodes/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0485-max-consecutive-ones](https://github.com/Thilak-29/LeetCodes/tree/master/0485-max-consecutive-ones) |
 | [0496-next-greater-element-i](https://github.com/Thilak-29/LeetCodes/tree/master/0496-next-greater-element-i) |
+| [0500-keyboard-row](https://github.com/Thilak-29/LeetCodes/tree/master/0500-keyboard-row) |
 | [0575-distribute-candies](https://github.com/Thilak-29/LeetCodes/tree/master/0575-distribute-candies) |
 | [0594-longest-harmonious-subsequence](https://github.com/Thilak-29/LeetCodes/tree/master/0594-longest-harmonious-subsequence) |
 | [0598-range-addition-ii](https://github.com/Thilak-29/LeetCodes/tree/master/0598-range-addition-ii) |
@@ -277,6 +279,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0424-longest-repeating-character-replacement](https://github.com/Thilak-29/LeetCodes/tree/master/0424-longest-repeating-character-replacement) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/Thilak-29/LeetCodes/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0443-string-compression](https://github.com/Thilak-29/LeetCodes/tree/master/0443-string-compression) |
+| [0500-keyboard-row](https://github.com/Thilak-29/LeetCodes/tree/master/0500-keyboard-row) |
 | [0535-encode-and-decode-tinyurl](https://github.com/Thilak-29/LeetCodes/tree/master/0535-encode-and-decode-tinyurl) |
 | [0541-reverse-string-ii](https://github.com/Thilak-29/LeetCodes/tree/master/0541-reverse-string-ii) |
 | [0567-permutation-in-string](https://github.com/Thilak-29/LeetCodes/tree/master/0567-permutation-in-string) |
