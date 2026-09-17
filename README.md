@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0594-longest-harmonious-subsequence](https://github.com/Thilak-29/LeetCodes/tree/master/0594-longest-harmonious-subsequence) |
 | [0645-set-mismatch](https://github.com/Thilak-29/LeetCodes/tree/master/0645-set-mismatch) |
 | [0697-degree-of-an-array](https://github.com/Thilak-29/LeetCodes/tree/master/0697-degree-of-an-array) |
+| [0748-shortest-completing-word](https://github.com/Thilak-29/LeetCodes/tree/master/0748-shortest-completing-word) |
 | [0771-jewels-and-stones](https://github.com/Thilak-29/LeetCodes/tree/master/0771-jewels-and-stones) |
 | [0804-unique-morse-code-words](https://github.com/Thilak-29/LeetCodes/tree/master/0804-unique-morse-code-words) |
 | [0890-find-and-replace-pattern](https://github.com/Thilak-29/LeetCodes/tree/master/0890-find-and-replace-pattern) |
@@ -109,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0697-degree-of-an-array](https://github.com/Thilak-29/LeetCodes/tree/master/0697-degree-of-an-array) |
 | [0735-asteroid-collision](https://github.com/Thilak-29/LeetCodes/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/Thilak-29/LeetCodes/tree/master/0739-daily-temperatures) |
+| [0748-shortest-completing-word](https://github.com/Thilak-29/LeetCodes/tree/master/0748-shortest-completing-word) |
 | [0804-unique-morse-code-words](https://github.com/Thilak-29/LeetCodes/tree/master/0804-unique-morse-code-words) |
 | [0860-lemonade-change](https://github.com/Thilak-29/LeetCodes/tree/master/0860-lemonade-change) |
 | [0890-find-and-replace-pattern](https://github.com/Thilak-29/LeetCodes/tree/master/0890-find-and-replace-pattern) |
@@ -287,6 +289,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0535-encode-and-decode-tinyurl](https://github.com/Thilak-29/LeetCodes/tree/master/0535-encode-and-decode-tinyurl) |
 | [0541-reverse-string-ii](https://github.com/Thilak-29/LeetCodes/tree/master/0541-reverse-string-ii) |
 | [0567-permutation-in-string](https://github.com/Thilak-29/LeetCodes/tree/master/0567-permutation-in-string) |
+| [0748-shortest-completing-word](https://github.com/Thilak-29/LeetCodes/tree/master/0748-shortest-completing-word) |
 | [0771-jewels-and-stones](https://github.com/Thilak-29/LeetCodes/tree/master/0771-jewels-and-stones) |
 | [0804-unique-morse-code-words](https://github.com/Thilak-29/LeetCodes/tree/master/0804-unique-morse-code-words) |
 | [0890-find-and-replace-pattern](https://github.com/Thilak-29/LeetCodes/tree/master/0890-find-and-replace-pattern) |
