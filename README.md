@@ -110,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0735-asteroid-collision](https://github.com/Thilak-29/LeetCodes/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/Thilak-29/LeetCodes/tree/master/0739-daily-temperatures) |
 | [0804-unique-morse-code-words](https://github.com/Thilak-29/LeetCodes/tree/master/0804-unique-morse-code-words) |
+| [0860-lemonade-change](https://github.com/Thilak-29/LeetCodes/tree/master/0860-lemonade-change) |
 | [0890-find-and-replace-pattern](https://github.com/Thilak-29/LeetCodes/tree/master/0890-find-and-replace-pattern) |
 | [0896-monotonic-array](https://github.com/Thilak-29/LeetCodes/tree/master/0896-monotonic-array) |
 | [0904-fruit-into-baskets](https://github.com/Thilak-29/LeetCodes/tree/master/0904-fruit-into-baskets) |
@@ -164,6 +165,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/Thilak-29/LeetCodes/tree/master/0011-container-with-most-water) |
 | [0045-jump-game-ii](https://github.com/Thilak-29/LeetCodes/tree/master/0045-jump-game-ii) |
 | [0605-can-place-flowers](https://github.com/Thilak-29/LeetCodes/tree/master/0605-can-place-flowers) |
+| [0860-lemonade-change](https://github.com/Thilak-29/LeetCodes/tree/master/0860-lemonade-change) |
 ## Stack
 |  |
 | ------- |
