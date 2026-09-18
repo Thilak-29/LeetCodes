@@ -128,6 +128,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1160-find-words-that-can-be-formed-by-characters](https://github.com/Thilak-29/LeetCodes/tree/master/1160-find-words-that-can-be-formed-by-characters) |
 | [1200-minimum-absolute-difference](https://github.com/Thilak-29/LeetCodes/tree/master/1200-minimum-absolute-difference) |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/Thilak-29/LeetCodes/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
+| [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/Thilak-29/LeetCodes/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Thilak-29/LeetCodes/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/Thilak-29/LeetCodes/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 | [1441-build-an-array-with-stack-operations](https://github.com/Thilak-29/LeetCodes/tree/master/1441-build-an-array-with-stack-operations) |
@@ -362,6 +363,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0209-minimum-size-subarray-sum](https://github.com/Thilak-29/LeetCodes/tree/master/0209-minimum-size-subarray-sum) |
 | [0349-intersection-of-two-arrays](https://github.com/Thilak-29/LeetCodes/tree/master/0349-intersection-of-two-arrays) |
 | [1004-max-consecutive-ones-iii](https://github.com/Thilak-29/LeetCodes/tree/master/1004-max-consecutive-ones-iii) |
+| [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/Thilak-29/LeetCodes/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -421,6 +423,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/Thilak-29/LeetCodes/tree/master/0200-number-of-islands) |
 | [0695-max-area-of-island](https://github.com/Thilak-29/LeetCodes/tree/master/0695-max-area-of-island) |
 | [0994-rotting-oranges](https://github.com/Thilak-29/LeetCodes/tree/master/0994-rotting-oranges) |
+| [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/Thilak-29/LeetCodes/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 ## Bracket Sequences
 |  |
 | ------- |
