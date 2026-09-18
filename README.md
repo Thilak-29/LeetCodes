@@ -46,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0598-range-addition-ii](https://github.com/Thilak-29/LeetCodes/tree/master/0598-range-addition-ii) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Thilak-29/LeetCodes/tree/master/0628-maximum-product-of-three-numbers) |
 | [0914-x-of-a-kind-in-a-deck-of-cards](https://github.com/Thilak-29/LeetCodes/tree/master/0914-x-of-a-kind-in-a-deck-of-cards) |
+| [1037-valid-boomerang](https://github.com/Thilak-29/LeetCodes/tree/master/1037-valid-boomerang) |
 | [3536-maximum-product-of-two-digits](https://github.com/Thilak-29/LeetCodes/tree/master/3536-maximum-product-of-two-digits) |
 ## Two Pointers
 |  |
@@ -121,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0977-squares-of-a-sorted-array](https://github.com/Thilak-29/LeetCodes/tree/master/0977-squares-of-a-sorted-array) |
 | [0994-rotting-oranges](https://github.com/Thilak-29/LeetCodes/tree/master/0994-rotting-oranges) |
 | [1004-max-consecutive-ones-iii](https://github.com/Thilak-29/LeetCodes/tree/master/1004-max-consecutive-ones-iii) |
+| [1037-valid-boomerang](https://github.com/Thilak-29/LeetCodes/tree/master/1037-valid-boomerang) |
 | [1052-grumpy-bookstore-owner](https://github.com/Thilak-29/LeetCodes/tree/master/1052-grumpy-bookstore-owner) |
 | [1089-duplicate-zeros](https://github.com/Thilak-29/LeetCodes/tree/master/1089-duplicate-zeros) |
 | [1160-find-words-that-can-be-formed-by-characters](https://github.com/Thilak-29/LeetCodes/tree/master/1160-find-words-that-can-be-formed-by-characters) |
@@ -435,4 +437,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0914-x-of-a-kind-in-a-deck-of-cards](https://github.com/Thilak-29/LeetCodes/tree/master/0914-x-of-a-kind-in-a-deck-of-cards) |
+## Geometry
+|  |
+| ------- |
+| [1037-valid-boomerang](https://github.com/Thilak-29/LeetCodes/tree/master/1037-valid-boomerang) |
 <!---LeetCode Topics End-->
