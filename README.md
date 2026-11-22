@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0496-next-greater-element-i](https://github.com/Thilak-29/LeetCodes/tree/master/0496-next-greater-element-i) |
 | [0500-keyboard-row](https://github.com/Thilak-29/LeetCodes/tree/master/0500-keyboard-row) |
 | [0535-encode-and-decode-tinyurl](https://github.com/Thilak-29/LeetCodes/tree/master/0535-encode-and-decode-tinyurl) |
+| [0560-subarray-sum-equals-k](https://github.com/Thilak-29/LeetCodes/tree/master/0560-subarray-sum-equals-k) |
 | [0567-permutation-in-string](https://github.com/Thilak-29/LeetCodes/tree/master/0567-permutation-in-string) |
 | [0575-distribute-candies](https://github.com/Thilak-29/LeetCodes/tree/master/0575-distribute-candies) |
 | [0594-longest-harmonious-subsequence](https://github.com/Thilak-29/LeetCodes/tree/master/0594-longest-harmonious-subsequence) |
@@ -101,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0496-next-greater-element-i](https://github.com/Thilak-29/LeetCodes/tree/master/0496-next-greater-element-i) |
 | [0500-keyboard-row](https://github.com/Thilak-29/LeetCodes/tree/master/0500-keyboard-row) |
 | [0506-relative-ranks](https://github.com/Thilak-29/LeetCodes/tree/master/0506-relative-ranks) |
+| [0560-subarray-sum-equals-k](https://github.com/Thilak-29/LeetCodes/tree/master/0560-subarray-sum-equals-k) |
 | [0575-distribute-candies](https://github.com/Thilak-29/LeetCodes/tree/master/0575-distribute-candies) |
 | [0594-longest-harmonious-subsequence](https://github.com/Thilak-29/LeetCodes/tree/master/0594-longest-harmonious-subsequence) |
 | [0598-range-addition-ii](https://github.com/Thilak-29/LeetCodes/tree/master/0598-range-addition-ii) |
@@ -158,6 +160,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0209-minimum-size-subarray-sum](https://github.com/Thilak-29/LeetCodes/tree/master/0209-minimum-size-subarray-sum) |
 | [0238-product-of-array-except-self](https://github.com/Thilak-29/LeetCodes/tree/master/0238-product-of-array-except-self) |
 | [0303-range-sum-query-immutable](https://github.com/Thilak-29/LeetCodes/tree/master/0303-range-sum-query-immutable) |
+| [0560-subarray-sum-equals-k](https://github.com/Thilak-29/LeetCodes/tree/master/0560-subarray-sum-equals-k) |
 | [1004-max-consecutive-ones-iii](https://github.com/Thilak-29/LeetCodes/tree/master/1004-max-consecutive-ones-iii) |
 | [1480-running-sum-of-1d-array](https://github.com/Thilak-29/LeetCodes/tree/master/1480-running-sum-of-1d-array) |
 ## Dynamic Programming
